@@ -5,7 +5,17 @@
 
 #include <iostream>
 #include "Square.h"
+using namespace std;
 
 int main() {
+
+    /************************************************************** */
+    /*   You and I need to output a cout for each turn              */
+    /****************************************************************/
+
+
+cout << "Prof Crinnion    10/18/25     Commit for Task 2  " << endl;
+
+
     return 0;
 }
