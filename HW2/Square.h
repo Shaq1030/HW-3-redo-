@@ -15,7 +15,9 @@ public:
     double getSide() const;
 
     double area() const;
-    double perimeter() const;
+    
 };
-
+// non-member function declarations per specification
+double area(const Square& sq);
+void print(const Square& sq);
 #endif // Square.h

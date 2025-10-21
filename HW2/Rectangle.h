@@ -5,20 +5,20 @@
 class Rectangle {
 private:
     double width;
-    double height;
+    double length;
 
 public:
     Rectangle();
-    Rectangle(double width, double height);
+    Rectangle(double length, double width);
 
     void setWidth(double width);
-    void setHeight(double height);
+    void setLength(double length);
 
     double getWidth() const;
-    double getHeight() const;
+    double getLength() const;
 
-    double area() const;
-    double perimeter() const;
+    double area (const Rectangle& r ) const;
+    void print (const Rectangle& r);
 };
 
 #endif // RECTANGLE_H
