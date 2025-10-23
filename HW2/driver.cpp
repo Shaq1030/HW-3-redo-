@@ -6,7 +6,7 @@
 #include <iostream>
 #include "Square.h"
 #include "Rectangle.h"
-#include namespace std 
+using namespace std;
 #include "Triangle.h"
 
 int main() {
