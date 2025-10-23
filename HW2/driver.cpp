@@ -19,7 +19,7 @@ cout << "Sikder            10/17/25     Commit for Task 1" << endl;
 cout << "Prof Crinnion    10/18/25     Commit for Task 2  " << endl;
 cout << "Sikder            10/19/25     Commit for Task 3" << endl;
 cout << "Prof Crinnion     10/20/25     Commit Task 4 " << endl;
-cout << "Prof Crinnion     10/21/25     Committed Task 4 " << endl;
+cout << "Sikder     10/21/25     Committed Task 4 " << endl;
 
     return 0;
 }
